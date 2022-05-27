@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>           //Printing patterns using loops  
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
